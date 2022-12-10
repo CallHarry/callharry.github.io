@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Portfolio
+title: Real Estate Agent
 
 # Your name to show in the footer
-author: Tanpreet Singh
+author: Harpreet Singh
 
 # --- List of links in the navigation bar --- #
 
@@ -39,10 +39,9 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "stnpreet@gmail.com"
-  facebook: tnpreet
-  github: tnpreet
-  twitter: tnpreet
+  email: "harrymannu@gmail.com"
+  facebook: https://www.facebook.com/100040868750738
+  twitter: 
 
 #  medium: yourname
 #  reddit: yourname
