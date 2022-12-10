@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>My Portfolio</title>
+    
+    
+    <description>This website is a virtual proof that I'm awesome</description>
+    
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>Skills</title>
+        <description>
+          Best web developer in the game - 
+          Technical Skills Familiar working with HTML, CSS, JavaScript, SQL, Java, and Linux Experience working in an office environment and collaborating with colleagues to work on projects. Maintenance technician experience in hospital, data center and commercial buildings Familiar working on material handling equipment, ladder logic, VFD, motor starters and preventive maintenance...
+        </description>
+        <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2021-06-04-flake-it-till-you-make-it/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021-06-04-flake-it-till-you-make-it/</guid>
+      </item>
+    
+      <item>
+        <title>Future blog</title>
+        <description>
+          
+          This is where i will post my future blogs Here is some bold text Here is a secondary heading Here’s a useless table: Number Next number Previous number Five Six Four Ten Eleven Nine Seven Eight Six Two Three One How about a yummy crepe? It can also be centered!...
+        </description>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2020-02-28-test-markdown/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020-02-28-test-markdown/</guid>
+      </item>
+    
+  </channel>
+</rss>
