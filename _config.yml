@@ -14,10 +14,10 @@ author: hs@SinghTeamRealty.com
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resume: "resume"
+  Search properties: "aboutme"
+  About: "resume"
   Content:
-    - My Youtube channel: "https://www.youtube.com/@SinghTeamRealty"
+    - Youtube channel: "https://www.youtube.com/@SinghTeamRealty"
     - Listings: "https://singhteamrealty.com/17-robertson-rd"
 
 # --- Logo --- #
