@@ -16,9 +16,9 @@ author: Harpreet Singh
 navbar-links:
   About Me: "aboutme"
   Resume: "resume"
-  Resources:
-    - Beautiful Jekyll: "https://google.com"
-    - Learn markdown: "https://www.google.com/"
+  Content:
+    - My Youtube channel: "https://www.youtube.com/@SinghTeamRealty"
+    - Market Update: "https://youtu.be/w_r4JsmN7j0"
 
 # --- Logo --- #
 
@@ -38,7 +38,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "harrymannu@gmail.com"
+  email: "hs@SinghTeamRealty.com"
   facebook: 100040868750738
   twitter: 
 
@@ -50,7 +50,7 @@ social-network-links:
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
